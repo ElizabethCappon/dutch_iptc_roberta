@@ -13,7 +13,7 @@ from transformers import (
 # ------------------------------------
 ## load data
 
-df = pd.read_csv("iptc_train_data_example.csv")[:80]
+df = pd.read_csv("iptc_train_data_example.csv")[:70]
 
 # ------------------------------------
 ## prep data
